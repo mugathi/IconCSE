@@ -1,0 +1,8 @@
+Program to count characters and numerics in a string.
+Input - string from console
+Output - number of characters and numbers
+Eg: 
+Input: "Iconcse2018"
+Output:
+chars - 7
+numbers - 4
